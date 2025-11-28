@@ -1,9 +1,0 @@
-# requirements.txt
-streamlit
-numpy
-librosa
-matplotlib
-pywavelets
-soundfile
-audioread
-cryptography
