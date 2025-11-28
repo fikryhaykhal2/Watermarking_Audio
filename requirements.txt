@@ -6,4 +6,6 @@ matplotlib
 pywavelets
 soundfile
 audioread
+torch
+torchvision
 cryptography
